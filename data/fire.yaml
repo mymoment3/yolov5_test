@@ -1,0 +1,12 @@
+
+
+
+
+train: E:\Yan_project\yolov5_test\datasets\fire\images\train  # train images (relative to 'path') 39384 images
+val: E:\Yan_project\yolov5_test\datasets\fire\images\val  # val images (relative to 'path') 15062 images
+
+nc: 2  # number of classes
+names: ['fire', 'smoke']  # class names
+
+
+
